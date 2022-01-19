@@ -1,21 +1,15 @@
-# Barber
+# Friseur
 
-## Part A:
-In 2003, a haircut at a hairdresser costs exactly 10 euros.
+## Aufgabenteil A:
+Im Jahr 2003 kostet ein Haarschnitt bei einem Friseur exakt 10 Euro.
+Jedes Jahr erhöht sich der Preis um 2 Prozent.
 
-Each year the price increases by 2 percent.
+Berechne mit JavaScript, wie hoch der Preis im Jahr 2023 ist.
 
-Calculate what the price will be in 2023 using JavaScript.
+## Aufgabenteil B:
+Wie hoch ist der Preis im Jahr 2023, wenn sich der Preis seit 2003 um 3 Prozent pro Jahr erhöht?
+Wie hoch ist der Preis im Jahr 2023, wenn sich der Preis seit 2003 um 4 Prozent pro Jahr erhöht?
+Wie hoch ist der Preis im Jahr 2023, wenn sich der Preis seit 2003 um 5 Prozent pro Jahr erhöht?
 
-## Task part B:
-What is the price in 2023 if the price increases by 3 percent per year since 2003?
-
-What is the price in 2023 if the price increases by 4 percent per year since 2003?
-
-What is the price in 2023 if the price increases by 5 percent per year since 2003?
-
-## Task part C:
-Try to write your program in such a way that you can calculate the price of a haircut with as little effort as possible if there are further percentage changes in part B. 
-
-Tip: Use variables whenever possible.
-
+## Aufgabenteil C:
+Versuche dein Programm so zu schreiben, dass du den Preis eines Haarschnitts bei weiteren Prozentänderungen in Aufgabenteil B mit möglichst wenig Mühe nachrechnen kannst. Tipp: Verwende möglichst Variablen.

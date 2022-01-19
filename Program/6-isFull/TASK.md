@@ -1,23 +1,22 @@
-# isFull
+# ist voll
 
-## Task part 1
-We want to store up to three people in an array.
+## Aufgabe Teil 1
+Wir wollen bis zu drei Personen in einem Array speichern.
 
-The array represents the three participants joining a conference room.
+Das Array repräsentiert drei Teilnehmer, die einem Konferenzraum beitreten.
 
-But we want to ensure, that the room won't be overcrowded.
+Wir wollen aber sicherstellen, dass der Raum nicht überfüllt wird.
 
-For that purpose a variable will stop the third user joining, if there is only two lines available.
+Zu diesem Zweck verhindert eine Variable, dass der dritte Benutzer beitritt, wenn nur zwei Leitungen verfügbar sind.
 
-The variable will be named isFull with a value of true or false. 
-1. Write a variable named isFull and set it to false (the space is open for new users).
-2. Write an array with the users "John Smith" and "Bob Tyler".
-3. Now write an if-statement for the third user "Chuck".
-4. "Chuck Peterson" can only join the room if there is space left. In that case write a console output with all users.
-5. Otherwise write the console output "sorry, the room is already full" instead.
+Die Variable erhält den Namen isFull mit dem Wert „true“ oder „false“.
+1. Schreiben Sie eine Variable namens isFull und setzen Sie sie auf false (der Raum ist offen für neue Benutzer)
+2. Schreiben Sie ein Array mit den Benutzern „John Smith“ und „Bob Tyler“.
+3. Schreiben Sie nun eine if-Anweisung für den dritten Benutzer „Chuck“.
+4. „Chuck Peterson“ kann dem Raum nur beitreten, wenn noch Platz ist. Schreiben Sie in diesem Fall eine Konsolenausgabe mit allen Benutzern.
+5. Andernfalls schreiben Sie stattdessen die Konsolenausgabe "Entschuldigung, der Raum ist bereits voll".
 
-## Task part 2
-Now change the value of the variable isFull to true.
+## Aufgabe Teil 2
+Ändern Sie nun den Wert der Variable isFull auf true.
 
-How does the result change now?
-
+Wie ändert sich das Ergebnis jetzt?

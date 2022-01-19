@@ -1,13 +1,13 @@
 # dummyText
 
-## Task part 1
-We want to generate a text with a jumble of letters with at least 500 characters.
-1. Write a variable named myRandomText and the value "abc".
-2. Now write a loop.
-3. The loop is running until the text reaches a minimum length of 500 characters.
-4. As the loop runs, it appends the letters "a" "b" and "c" to the variable.
-5. When the loop finishes, it outputs the finished text.
+## Aufgabenstellung Teil 1
+Wir wollen einen Text mit einem Buchstabelsalat mit mindestens 500 Zeichen generieren.
+1. Schreibe eine Variable mit dem Namen myRandomText und dem Wert "abc".
+2. Schreibe nun eine Schleife.
+3. Die Schleife wird so lange ausgeführt, bis der Text eine Mindestlänge von 500 Wörtern erreicht.
+4. Solange die Schleife iteriert, fügt sie die Buchstaben "a" "b" und "c" an die Variable an.
+5. Wenn die Schleife beendet ist, gibt sie den fertigen Text aus.
 
-## Task part 2
-The text should now be at least 50,000 characters long.
-How long does the program take to run?
+## Aufgabenstellung Teil 2
+Der Text soll nun mindestens 50000 Zeichen lang sein.
+Wie lange braucht das Programm zur Ausführung?

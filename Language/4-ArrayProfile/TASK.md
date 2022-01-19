@@ -1,13 +1,14 @@
-# ArrayProfile
+# ArraySteckbrief
 
-## Task part 1
-Write a profile about yourself with JavaScript.
-1. Put your first name in a constant
-2. Put your last name in a constant
-3. Put your zip code in a variable
-4. Write your favorite number in a constant
-5. Create an array named 'Hobbies'.
-6. Fill the array with at least three values.
+## Aufgabenstellung Teil 1
+Schreibe mit JavaScript einen Steckbrief zu deiner eigenen Person.
+1. Schreibe deinen Vornamen in eine Konstante
+2. Schreibe deinen Nachnamen in eine Konstante
+3. Schreibe deine Postleizahl in eine Variable
+4. Schreibe deine Lieblingszahl in eine Konstante
+5. Erstelle in Array mit dem Namen 'Hobbies'.
+6. Fülle das Array mit mindestens drei Werten.
 
-## Task part 2
-Write a console output for each bullet point of your profile.
+## Aufgabenstellung Teil 2
+Schreibe für jeden Stichpunkt deines Steckbriefs eine Konsolenausgabe.
+Und führe Dein Programm anschließend aus.

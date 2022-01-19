@@ -1,24 +1,13 @@
-# restaurant
-Calculate the price of an order with JavaScript.
+# Restaurant
+Berechne mit JavaScript den Preis einer Bestellung.
 
-## Part A:
-You are in a restaurant with John, Chuck and Sam.
+## Aufgabenteil A:
+Du bist mit John, Chuck und Sam in einem Restaurant.
+Du bestellst einen Burger für 5,89€. John bestellt eine Pizza für 4,50€ und Sam bestellt ein Bier für 2€. Jetzt löst du einen Gutschein im Wert von 3 Euro ein. Zusätzlich bezahlt ihr 10 Prozent Trinkgeld und 7 Prozent Steuern.
 
-You order a burger for €5.89. 
+## Aufgabenteil B:
+Wie hoch ist der Preis der Bestellung, wenn ihr 15 Prozent Trinkgeld zahlt?
+Wie hoch ist der Preis der Bestellung, wenn ihr 20 Prozent Trinkgeld zahlt?
 
-John orders a pizza for €4.50 and Sam orders a beer for €2. 
-
-Now use a voucher worth 3 euros. 
-
-In addition, you pay a 10 percent tip and 7 percent taxes.
-
-## Task part B:
-What is the price of the order if you pay a 15 percent tip?
-
-What is the price of the order if you pay a 20 percent tip?
-
-## Task part C:
-Try to write your program in such a way that you can recalculate the price of the order in the event of further percentage changes in part B with as little effort as possible. 
-
-Tip: Use variables whenever possible.
-
+## Aufgabenteil C:
+Versuche dein Programm so zu schreiben, dass du den Preis der Bestellung bei weiteren Prozentänderungen in Aufgabenteil B mit möglichst wenig Mühe nachrechnen kannst. Tipp: Verwende möglichst Variablen.

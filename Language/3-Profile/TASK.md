@@ -1,18 +1,17 @@
-# Profile
+# Steckbrief
 
-## Part A:
+## Aufgabenteil A:
 
-Write out the following values in the console:
-* your first name
-* your last name
-* Your city
-* your state
+Schreibe folgende Werte in der Konsole aus:
+Deinen Vornamen
+Deinen Nachnamen
+Deine Stadt
+Dein Bundesland
 
-Use a separate console output for each line.
+Verwende für jede Zeile eine eigene Konsolenausgabe.
 
-## Task part B:
-Write the same for an actor or artist of your choice.
+## Aufgabenteil B:
+Schreibe das gleiche für einen Schauspieler oder Künstler deiner Wahl.
 
-## Task part C:
-Write your program in such a way that you have declared as many properties as possible in a variable and only have to change the value of the variable.
-
+## Aufgabenteil C:
+Schreibe dein Programm so, dass du möglichst alle Eigenschaften in einer Variable deklariert hast und nur noch den Wert der Variable ändern musst.

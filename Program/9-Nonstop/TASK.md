@@ -1,10 +1,10 @@
 # nonstop
 
-## Task part 1
-Research what an infinite loop is on the internet.
+## Aufgabenstellung Teil 1
+Recherchiere im Internet, was eine Endlosschleife ist.
 
-## Task part 2
-We want to loop as long as a user is logged in.
-1. Create a variable isLoggedIn and set the value to true.
-2. Write a loop that runs as long as isLoggedIn is true.
-3. In the loop write a console output with the text "you are logged in".
+## Aufgabenstellung Teil 2
+Wir wollen eine Schleife so lange ausführen, wie ein Nutzer angemeldet ist.
+1. Erstelle eine Variable isLoggedIn und setze den Wert auf true.
+2. Schreibe eine Schleife, die so lange ausgeführt wird, wie isLoggedIn den Wert true hat.
+3. In der Schleife schreibe eine Konsolenausgabe mit dem Text "du bist angemeldet".

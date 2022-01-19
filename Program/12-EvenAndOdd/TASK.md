@@ -1,21 +1,16 @@
 # EvenAndOdd
-This task should lead to the following result: 
+Diese Aufgabe soll zu folgendem Ergebnis führen: 
+Am Ende sollen zwei Arrays ausgeschrieben werden. 
+Das eine Array ist mit geraden Zahlen gefüllt und das andere Array ist mit ungeraden Zahlen gefüllt. 
+Jedes Array enthält jeweils 100 Zahlen. 
 
-At the end, two arrays should be written out. 
+Beginne mit der Zahl 2 für die geraden Zahlen und mit der Zahl 3 für die ungeraden Zahlen.
 
-One array is filled with even numbers and the other array is filled with odd numbers. 
+## Aufgabenteil 1
+1. Beginne mit zwei leeren Arrays.
+2. Falls du möchtest, darfst du im Zuge der Aufgabe weitere Hilfs-Variablen und Hilfs-Konstanten definieren.
+3. Schreibe eine oder mehrere Schleifen, in denen zu Zahlen zu den Arrays hinzufügst.
 
-Each array contains 100 numbers. 
-
-Start with the number 2 for the even numbers and with the number 3 for the odd numbers.
-
-## Task part 1
-1. Start with two empty arrays.
-2. If you want, you can define more variables or constants to help with the task.
-3. Write one or more loops in which you add numbers to the arrays.
-
-## Task part 2
-1. Make sure your loop ends when your arrays are filled with 100 even and 100 odd numbers respectively.
-
-2. Write out your arrays in a console output.
-
+## Aufgabenteil 2
+1. Stelle sicher, dass deine Schleife beendet ist, sobald deine Arrays mit jeweils 100 geraden bzw. ungeraden Zahlen gefüllt sind.
+2. Schreibe deine Arrays in einer Konsolenausgabe aus.

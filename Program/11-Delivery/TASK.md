@@ -1,41 +1,35 @@
 # delivery
 
-## task
-You work in the department of a delivery company.
+## Aufgabenstellung
+Du arbeitest in der Paketauslieferung eines Zustellungsunternehmens.
+Dein Lieferfahrzeug ist mit 10 Paketen gefüllt. Solange du noch Pakete hast, lieferst du ein Paket aus.
+Falls du noch 5 Pakete übrig hast, machst du eine Pause.
+1. Finde eine Variable für die Zahl der Pakete.
+2. Schreibe eine Schleife, in der du solange Pakete auslieferst, wie du noch Pakete hast.
+3. Ein Paket wird ausgeliefert, indem du die Konsolenausgabe "Paket ausgeliefert" schreibst und die Variable reduzierst.
+4. Eine Pause machst du, indem du die Konsolenausgabe "Ich mache eine Pause" schreibst.
+5. In der Schleife musst du prüfen, ob es Zeit für eine Pause ist.
 
-Your delivery vehicle is filled with 10 packages. 
+Dein Ergebnis müsste so aussehen:
 
-As long as you still have packages, you deliver one.
+Paket ausgeliefert
 
-If you have 5 packages left, you take a break.
-1. Find a variable for the number of packages.
-2. Write a loop in which you deliver packages as long as you still have any.
-3. A package is delivered by writing the console output "package delivered".
-4. Take a break by writing the console output "I'm taking a break".
+Paket ausgeliefert
 
-Tipp: you need to check if it's time for a break inside of the loop.
+Paket ausgeliefert
 
-Your result should look like this:
+Paket ausgeliefert
 
-package delivered
+Paket ausgeliefert
 
-package delivered
+Ich mache eine Pause
 
-package delivered
+Paket ausgeliefert
 
-package delivered
+Paket ausgeliefert
 
-package delivered
+Paket ausgeliefert
 
-I'm having a break
+Paket ausgeliefert
 
-package delivered
-
-package delivered
-
-package delivered
-
-package delivered
-
-package delivered
-
+Paket ausgeliefert
